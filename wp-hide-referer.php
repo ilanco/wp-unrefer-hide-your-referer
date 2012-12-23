@@ -3,9 +3,10 @@
  * Plugin Name: WordPress Hide Referer
  * Plugin URI: https://github.com/ilanco/wp-unrefer-hide-your-referer
  * Description: Hide your referer.
- * Version: 1.0
+ * Version: %VERSION%
  * Author: Ilan Cohen <ilanco@gmail.com>
  * Author URI: https://github.com/ilanco
+ * License: WTFPL (http://sam.zoy.org/wtfpl/)
  */
 
 /**

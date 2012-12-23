@@ -4,7 +4,7 @@ Donate link: https://www.gittip.com/ilanco/
 Tags: hide, refer, referer, referrer, hide refer, hide referer, hide referrer, anonymize, anonymize link, privacy
 Requires at least: 3.3
 Tested up to: 3.5
-Stable tag: 1.0
+Stable tag: %VERSION%
 License: WTFPL
 License URI: http://sam.zoy.org/wtfpl/
 
